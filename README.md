@@ -1,6 +1,6 @@
 # A Unified Deep Learning Framework for Structure-Based Thermal Conductivity Prediction and Target-Driven Inverse Materials Design
 
-This repository contains the data and source code associated with the study. CGCNN and GNN models are used to predict the experimental total thermal conductivity of thermoelectric materials directly from crystal structure and temperature. The trained models are then integrated with Extra Trees screening and CHGNet structure optimization to identify candidates with thermal conductivity close to a target value.
+This repository contains the data and source code associated with the study. CGCNN and GNN models are used to predict the total thermal conductivity of thermoelectric materials directly from crystal structure and temperature. The trained models are then integrated with Extra Trees screening and CHGNet structure optimization to identify candidates with thermal conductivity close to a target value.
 
 ## Repository Files
 
